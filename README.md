@@ -13,7 +13,7 @@ This repository showcases a clone of the Google homepage created using basic HTM
 - Footer section
 
 ## Demo
-Check out the [demo page](https://your-username.github.io/google.html) to see it live.
+Check out the [demo page](file:///Users/noorahussain/Desktop/google.html) to see it live.
 
 ## Purpose
 This project is for educational purposes only, created to practice and demonstrate my understanding of HTML and CSS.
