@@ -1,4 +1,4 @@
-# Google Homepage Clone
+# html Homepage Clone
 
 ## Overview
 This repository showcases a clone of the Google homepage created using basic HTML and CSS. It's part of my journey in learning and mastering web development.
