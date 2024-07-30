@@ -18,7 +18,8 @@ This repository showcases a clone of some created pages using basic HTML and CSS
 - borders
 - divs
 - classes
-- 
+- centering
+- flexbox
 
 ## Demo
 Check out the [demo page](file:///Users/noorahussain/Desktop/google.html) to see it live.
