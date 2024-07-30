@@ -11,6 +11,8 @@ This repository showcases a clone of some created pages using basic HTML and CSS
 - Header with navigation links
 - Search bar with buttons
 - Footer section
+
+  ## CSS
 - css syntax
 - inline vs block
 - margins
