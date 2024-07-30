@@ -11,6 +11,14 @@ This repository showcases a clone of some created pages using basic HTML and CSS
 - Header with navigation links
 - Search bar with buttons
 - Footer section
+- css syntax
+- inline vs block
+- margins
+- padding
+- borders
+- divs
+- classes
+- 
 
 ## Demo
 Check out the [demo page](file:///Users/noorahussain/Desktop/google.html) to see it live.
