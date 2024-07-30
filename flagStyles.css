@@ -1,0 +1,33 @@
+.body {
+    margin: 20px;
+}
+
+
+.Gambia {
+    text-align: center;
+    font-size: 2em; /* Adjust the size as you like */
+    font-weight: bold;
+}
+
+.red {
+    background: #c71226;
+    height: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.blue {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background: #0d1b88;
+    height: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.green {
+    background: #397327;
+    height: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
